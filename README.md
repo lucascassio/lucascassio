@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @lucascassio
+- 🌱 Cursando Sistemas de Informação | UFMG
