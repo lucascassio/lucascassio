@@ -1,2 +1,2 @@
-- 👋 Hi There, Im Lucas Cassio
+- 👋 Hi There, I'm Lucas Cassio
 - 🌱 Cursando Sistemas de Informação | UFMG
