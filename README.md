@@ -1,2 +1,2 @@
-- 👋 @lucascassio
+- 👋 Hi There, Im Lucas Cassio
 - 🌱 Cursando Sistemas de Informação | UFMG
