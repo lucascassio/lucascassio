@@ -1,9 +1,9 @@
 ### Hi there, I'm Lucas Cassio 🖖
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lccosta2604@gmail.com) 
-[![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cassio-costa-392792251/)
+                      [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lccosta2604@gmail.com) 
+                      [![Twitter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-cassio-costa-392792251/)
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascassio&show_icons=true&theme=radical)
+                      ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucascassio&show_icons=true&theme=radical)
 
 ### Tecnologias que eu estudo 👨🏽‍💻
 
