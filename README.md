@@ -24,9 +24,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascassio&theme=dracula)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascassio&theme=dracula)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucascassio&theme=dracula)
 
 
 
