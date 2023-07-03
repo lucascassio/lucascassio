@@ -27,8 +27,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascassio&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucascassio&theme=dracula)
-  
-![Snake animation](https://github.com/Elfo1507/lucascassio/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
