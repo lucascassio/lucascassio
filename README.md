@@ -16,9 +16,19 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 
+<div>
+<a href="https://github.com/lucascassio">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascassio&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucascassio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucascassio&theme=dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lucascassio&theme=dracula)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucascassio&theme=dracula)
+  
+![Snake animation](https://github.com/Elfo1507/lucascassio/blob/output/github-contribution-grid-snake.svg)
 
 
 
