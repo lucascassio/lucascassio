@@ -1,4 +1,4 @@
-### Hi there, I'm Lucas Cassio 🖖
+### Hi there, I'm Lucas 🖖
 
 
 
